@@ -1,0 +1,13 @@
+C:\Users\PUPBC\source\repos\Name\SMTP\bin\Debug\net8.0\SMTP.deps.json
+C:\Users\PUPBC\source\repos\Name\SMTP\bin\Debug\net8.0\SMTP.dll
+C:\Users\PUPBC\source\repos\Name\SMTP\bin\Debug\net8.0\SMTP.pdb
+C:\Users\PUPBC\source\repos\Name\SMTP\obj\Debug\net8.0\SMTP.csproj.AssemblyReference.cache
+C:\Users\PUPBC\source\repos\Name\SMTP\obj\Debug\net8.0\SMTP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PUPBC\source\repos\Name\SMTP\obj\Debug\net8.0\SMTP.AssemblyInfoInputs.cache
+C:\Users\PUPBC\source\repos\Name\SMTP\obj\Debug\net8.0\SMTP.AssemblyInfo.cs
+C:\Users\PUPBC\source\repos\Name\SMTP\obj\Debug\net8.0\SMTP.csproj.CoreCompileInputs.cache
+C:\Users\PUPBC\source\repos\Name\SMTP\obj\Debug\net8.0\SMTP.sourcelink.json
+C:\Users\PUPBC\source\repos\Name\SMTP\obj\Debug\net8.0\SMTP.dll
+C:\Users\PUPBC\source\repos\Name\SMTP\obj\Debug\net8.0\refint\SMTP.dll
+C:\Users\PUPBC\source\repos\Name\SMTP\obj\Debug\net8.0\SMTP.pdb
+C:\Users\PUPBC\source\repos\Name\SMTP\obj\Debug\net8.0\ref\SMTP.dll
